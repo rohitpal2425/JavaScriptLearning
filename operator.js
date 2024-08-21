@@ -67,3 +67,4 @@ if(age<18)
 else{
     console.log("this is buddha mannxee");
 }
+//just trying..................
